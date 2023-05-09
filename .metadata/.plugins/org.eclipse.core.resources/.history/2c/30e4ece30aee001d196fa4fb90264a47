@@ -1,0 +1,5 @@
+package com.walyproject.walylist.services;
+
+public class GameService {
+
+}
